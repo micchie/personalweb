@@ -15,7 +15,7 @@ href="https://scholar.google.com/citations?user=4yrJshIAAAAJ">Google Scholar</a>
 
 **Speicher: Securing LSM-based Key-Value Stores using Shielded Execution**  
 Maurice Bailleu, Jörg Thalheim, Pramod Bhatotia, Christof Fetzer, Michio Honda and Kapil Vaswani,
-USENIX Conference on File and Storage Technologies (**FAST**), February 2019 (to appear)
+USENIX Conference on File and Storage Technologies (**FAST**), February 2019
 <div class="pub">
   <span class="pub"><a href="http://homepages.inf.ed.ac.uk/pbhatoti/papers/Speicher-FAST-2019.pdf">pdf</a></span>
   <span class="pub"><a class="pub" href="https://www.usenix.org/biblio/export/bibtex/227798">bibtex</a></span>
@@ -24,7 +24,7 @@ USENIX Conference on File and Storage Technologies (**FAST**), February 2019 (to
 **FlowBlaze: Stateful Packet Processing in Hardware**  
 Salvatore Pontarelli, Roberto Bifulco, Marco Bonola, Carmelo Cascone, Marco Spaziani, Valerio Bruschi, Davide Sanvito, Giuseppe Siracusano, Antonio Capone, Michio Honda, Felipe Huici, Giuseppe Bianchi
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI**),
-February 2019 (to appear)
+February 2019
 <div class="pub">
   <span class="pub"><a class="pub" href="https://www.usenix.org/biblio/export/bibtex/225996">bibtex</a></span>
 </div>
