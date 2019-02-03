@@ -1,4 +1,4 @@
-baseURL = "https://micchie.github.io"
+baseURL = "https://micchie.net"
 title = "Michio Honda"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -51,7 +51,7 @@ showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = false
 #accentColor = "#ffcd00"
-accentColor = "#fffaf0"
+accentColor = "#fffff6"
 hideMainMenu = false
 
 [params.sidebar]
@@ -84,7 +84,7 @@ email = "micchie@sfc.wide.ad.jp"
 #github = "micchie"
 #gitlab = "micchie"
 #instagram = "MunifTanjim"
-linkedin = "muniftanjim"
+linkedin = "michio-honda-48819527"
 twitter = "michioh"
 #telegram = "MunifTanjim"
 google_scholar = "4yrJshIAAAAJ"

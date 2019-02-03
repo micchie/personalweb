@@ -14,15 +14,16 @@ The full list is at <a
 href="https://scholar.google.com/citations?user=4yrJshIAAAAJ">Google Scholar</a>
 
 **Speicher: Securing LSM-based Key-Value Stores using Shielded Execution**  
-Maurice Bailleu, Joerg Thalheim, Pramod Bhatotia, Christof Fetzer, Michio Honda and Kapil Vaswani,
+Maurice Bailleu, Jörg Thalheim, Pramod Bhatotia, Christof Fetzer, Michio Honda and Kapil Vaswani,
 USENIX Conference on File and Storage Technologies (**FAST**), February 2019 (to appear)
 <div class="pub">
+  <span class="pub"><a href="http://homepages.inf.ed.ac.uk/pbhatoti/papers/Speicher-FAST-2019.pdf">pdf</a></span>
   <span class="pub"><a class="pub" href="https://www.usenix.org/biblio/export/bibtex/227798">bibtex</a></span>
 </div>
 
 **FlowBlaze: Stateful Packet Processing in Hardware**  
 Salvatore Pontarelli, Roberto Bifulco, Marco Bonola, Carmelo Cascone, Marco Spaziani, Valerio Bruschi, Davide Sanvito, Giuseppe Siracusano, Antonio Capone, Michio Honda, Felipe Huici, Giuseppe Bianchi
-USENIX Symposium on Networked Systems Design and Implementation (**NSDI**)
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI**),
 February 2019 (to appear)
 <div class="pub">
   <span class="pub"><a class="pub" href="https://www.usenix.org/biblio/export/bibtex/225996">bibtex</a></span>
@@ -30,7 +31,7 @@ February 2019 (to appear)
 
 **PASTE: A Network Programming Interface for Non-Volatile Main Memory**  
 Michio Honda, Giuseppe Lettieri, Lars Eggert and Douglas Santry,
-USENIX Symposium on Networked Systems Design and Implementation (**NSDI**) 2018  
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), April 2018  
 <div class="pub">
 <span class="pub"><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf">pdf</a></span>
 <span class="pub"><a class="pub" href="https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_honda.pdf">slides</a></span>
@@ -73,7 +74,6 @@ USENIX Annual Technical Conference (**ATC**), June 2016
 <div class="pub">
   <span class="pub"><a class="pub" href="https://www.usenix.org/system/files/conference/atc16/atc16-paper_yasukata.pdf">pdf</a></span>
   <span class="pub"><a class="pub" href="https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_yasukata.pdf">slides</a></span>
-  <span class="pub"><a class="pub" href="https://github.com/luigirizzo/netmap">code</a></span>
 </div>
 
 **mSwitch: A Highly-Scalable, Modular Software Switch**  
@@ -126,4 +126,4 @@ ACM Internet Measurement Conference (**IMC**), November 2011
 **A Connectivity-Driven Retransmission Scheme Based On Transport Layer Readdressing**  
 Michio Honda, Jin Nakazawa, Yoshifumi Nishida, Masahiro Kozuka and Hideyuki Tokuda,
 IEEE International Conference on Distributed Computing Systems (**ICDCS**), June 2008, pp.277-285  
-**merged in both FreeBSD and Linux mainline kernels**
+**Merged in both FreeBSD and Linux mainline kernels**
