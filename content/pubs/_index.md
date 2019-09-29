@@ -22,15 +22,16 @@ USENIX Conference on File and Storage Technologies (**FAST**), February 2019
 </div>
 
 **FlowBlaze: Stateful Packet Processing in Hardware**  
-Salvatore Pontarelli, Roberto Bifulco, Marco Bonola, Carmelo Cascone, Marco Spaziani, Valerio Bruschi, Davide Sanvito, Giuseppe Siracusano, Antonio Capone, Michio Honda, Felipe Huici, Giuseppe Bianchi
+Salvatore Pontarelli, Roberto Bifulco, Marco Bonola, Carmelo Cascone, Marco Spaziani, Valerio Bruschi, Davide Sanvito, Giuseppe Siracusano, Antonio Capone, Michio Honda, Felipe Huici and Giuseppe Bianchi, 
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI**),
 February 2019
 <div class="pub">
+  <span class="pub"><a href="https://www.usenix.org/system/files/nsdi19spring_pontarelli_prepub.pdf">pdf</a></span>
   <span class="pub"><a class="pub" href="https://www.usenix.org/biblio/export/bibtex/225996">bibtex</a></span>
 </div>
 
 **PASTE: A Network Programming Interface for Non-Volatile Main Memory**  
-Michio Honda, Giuseppe Lettieri, Lars Eggert and Douglas Santry,
+Michio Honda, Giuseppe Lettieri, Lars Eggert and Douglas Santry, 
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), April 2018  
 <div class="pub">
 <span class="pub"><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf">pdf</a></span>
@@ -41,7 +42,7 @@ USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), Apri
 </div>
 
 **Prism: A Proxy Architecture for Datacenter Networks**  
-Yutaro Hayakawa, Lars Eggert, Michio Honda and Douglas Santry
+Yutaro Hayakawa, Lars Eggert, Michio Honda and Douglas Santry, 
 ACM Symposium on Cloud Computing (**SoCC**) (short paper), September 2017
 <div class="pub">
   <span class="pub"><a class="pub" href="https://eggert.org/papers/socc17-final91.pdf">pdf</a></span>
@@ -50,7 +51,7 @@ ACM Symposium on Cloud Computing (**SoCC**) (short paper), September 2017
 </div>
 
 **HyperNF: Building a High Performance, High Utilization and Fair NFV Platform**  
-Kenichi Yasukata, Felipe Huici, Vincenzo Maffione, Giuseppe Lettieri and Michio Honda
+Kenichi Yasukata, Felipe Huici, Vincenzo Maffione, Giuseppe Lettieri and Michio Honda, 
 ACM Symposium on Cloud Computing (**SoCC**) , September 2017
 <div class="pub">
   <span class="pub"><a class="pub" href="http://sysml.neclab.eu/projects/hypernf/hypernf.pdf">pdf</a></span>
@@ -59,7 +60,7 @@ ACM Symposium on Cloud Computing (**SoCC**) , September 2017
 </div>
 
 **PASTE: Network Stacks Must Integrate with NVMM Abstractions**  
-Michio Honda, Lars Eggert and Douglas Santry
+Michio Honda, Lars Eggert and Douglas Santry, 
 ACM Workshop on Hot Topics in Networks (**HotNets**), November 2016  
 (Note: NSDI'18 version updates this paper)
 <div class="pub">
@@ -69,7 +70,7 @@ ACM Workshop on Hot Topics in Networks (**HotNets**), November 2016
 </div>
 
 **StackMap: Low-Latency Networking with the OS Stack and Dedicated NICs**  
-Kenichi Yasukata, Michio Honda, Douglas Santry and Lars Eggert,
+Kenichi Yasukata, Michio Honda, Douglas Santry and Lars Eggert, 
 USENIX Annual Technical Conference (**ATC**), June 2016
 <div class="pub">
   <span class="pub"><a class="pub" href="https://www.usenix.org/system/files/conference/atc16/atc16-paper_yasukata.pdf">pdf</a></span>
@@ -77,7 +78,7 @@ USENIX Annual Technical Conference (**ATC**), June 2016
 </div>
 
 **mSwitch: A Highly-Scalable, Modular Software Switch**  
-Michio Honda, Felipe Huici, Giuseppe Lettieri and Luigi Rizzo,
+Michio Honda, Felipe Huici, Giuseppe Lettieri and Luigi Rizzo, 
 ACM SIGCOMM Symposium on SDN Research (**SOSR**), June 2015
 **Best paper award**  
 Errata: CPU used in the paper is Xeon E5-2695v2 whose base clock frequency is 2.4 Ghz (not 2.8 Ghz)
@@ -88,7 +89,7 @@ Errata: CPU used in the paper is Xeon E5-2695v2 whose base clock frequency is 2.
 </div>
 
 **Rekindling Network Protocol Innovation with User-Level Stacks**  
-Michio Honda, Felipe Huici, Costin Raiciu, Joao Araujo and Luigi Rizzo,
+Michio Honda, Felipe Huici, Costin Raiciu, Joao Araujo and Luigi Rizzo, 
 ACM SIGCOMM Computer Communication Review (**CCR**), April 2014
 <div class="pub">
   <span class="pub"><a class="pub" href="http://www.sigcomm.org/sites/default/files/ccr/papers/2014/April/0000000-0000006.pdf">pdf</a></span>
@@ -97,7 +98,7 @@ ACM SIGCOMM Computer Communication Review (**CCR**), April 2014
 </div>
 
 **ClickOS and the Art of Network Function Virtualization**  
-Joao Martins, Mohamed Ahmed, Costin Raiciu, Vladimir Olteanu, Michio Honda, Roberto Bifulco and Felipe Huici,
+Joao Martins, Mohamed Ahmed, Costin Raiciu, Vladimir Olteanu, Michio Honda, Roberto Bifulco and Felipe Huici, 
 USENIX Networked Systems Design and Implementation (**NSDI**), April 2014
 <div class="pub">
   <span class="pub"><a class="pub" href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf">pdf</a></span>
@@ -105,7 +106,7 @@ USENIX Networked Systems Design and Implementation (**NSDI**), April 2014
 </div>
 
 **How Hard Can It Be? Designing and Implementing a Deployable Multipath TCP**  
-Costin Raiciu, Christoph Paasch, Sebastien Barre, Alan Ford, Michio Honda, Fabien Duchene, Olivier Bonaventure and Mark Handley,
+Costin Raiciu, Christoph Paasch, Sebastien Barre, Alan Ford, Michio Honda, Fabien Duchene, Olivier Bonaventure and Mark Handley, 
 USENIX Networked Systems Design and Implementation (**NSDI**), April 2012  
 **Community Award**
 <div class="pub">
@@ -114,16 +115,16 @@ USENIX Networked Systems Design and Implementation (**NSDI**), April 2012
 </div>
 
 **Is it Still Possible to Extend TCP?**  
-Michio Honda, Yoshifumi Nishida, Costin Raiciu, Adam Greenhalgh, Mark Handley and Hideyuki Tokuda,
+Michio Honda, Yoshifumi Nishida, Costin Raiciu, Adam Greenhalgh, Mark Handley and Hideyuki Tokuda, 
 ACM Internet Measurement Conference (**IMC**), November 2011  
-**<a class="pub" href="https://irtf.org/anrp/">Applied Networking Research Prize (ANRP) by Internet Research Task Force</a>**
-**Featured on <a class="pub" href="http://hardware.slashdot.org/story/11/08/02/0130231/Middleboxes-vs-the-Internets-End-to-End-Principle"">Slashdot</a>**
+**<a href="https://irtf.org/anrp/">Applied Networking Research Prize (ANRP) by Internet Research Task Force</a>**
+**Featured on <a href="http://hardware.slashdot.org/story/11/08/02/0130231/Middleboxes-vs-the-Internets-End-to-End-Principle">Slashdot</a> (2011) and <a href="https://news.ycombinator.com/item?id=16281346">Hacker  News</a> (2018)**
 <div class="pub">
   <span class="pub"><a class="pub" href="http://conferences.sigcomm.org/imc/2011/docs/p181.pdf">pdf</a></span>
   <span class="pub"><a class="pub" href="https://dl.acm.org/downformats.cfm?id=2068834&parent_id=2068816&expformat=bibtex">bibtex</a></span>
 </div>
 
 **A Connectivity-Driven Retransmission Scheme Based On Transport Layer Readdressing**  
-Michio Honda, Jin Nakazawa, Yoshifumi Nishida, Masahiro Kozuka and Hideyuki Tokuda,
+Michio Honda, Jin Nakazawa, Yoshifumi Nishida, Masahiro Kozuka and Hideyuki Tokuda, 
 IEEE International Conference on Distributed Computing Systems (**ICDCS**), June 2008, pp.277-285  
 **Merged in both FreeBSD and Linux mainline kernels**
