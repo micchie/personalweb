@@ -25,7 +25,7 @@ defaultContentLanguage = "en"
   customCSS = [ "custom.css" ]
 
 [params.info]
-description = "Systems researcher at NEC Labs Europe"
+description = "Lecturer (Assistant Professor) at the University of Edinburgh\nfirst.last@ed.ac.uk"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -79,7 +79,7 @@ titleSeparator = "•"
 
 [params.social]
 #codepen = "MunifTanjim"
-email = "micchie@sfc.wide.ad.jp"
+#email = "micchie@sfc.wide.ad.jp"
 #facebook = "MunifTanjim"
 #github = "micchie"
 #gitlab = "micchie"
