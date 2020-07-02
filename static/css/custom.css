@@ -101,6 +101,41 @@ a.pub {
   border-bottom: none;
 }
 
+.pubent {
+  margin-top: -24px;
+}
+
+.pubent label {
+  font-weight: normal;
+}
+
+.pubent label:after {
+	display: inline-block;
+	content: "\f0d7";
+	font-family: 'FontAwesome';
+	font-weight: 900;
+	margin-left: 4px;
+	transition: 0.8s;
+}
+
+.pubent input {
+	display: none;
+}
+
+.pubent .hidden_show {
+	height: 0;
+	padding: 0;
+	overflow: hidden;
+	opacity: 0;
+	transition: 0.8s;
+}
+
+.pubent input:checked ~ .hidden_show {
+	padding: 0px 0;
+	height: auto;
+	opacity: 10;
+}
+
 div.site-header, div.header-info {
   display: none;
 }
